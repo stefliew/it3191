@@ -4,13 +4,20 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title></title>
+<title>Registration</title>
 </head>
 <body>
 <form>
-Username: <input type="text"></input>
-<br/>
-Password: <input type="password"></input>
+	Username: <input type="text"></input>
+	<br/>
+	Password: <input type="password"></input>
+	<br/>
+	Confirm password: <input type="password"></input>
+	<br/>
+	Username: <input type="text"></input>
+	<br/>
+	Password: <input type="password"></input>
+	<br/>
 </form>
 </body>
 </html>
